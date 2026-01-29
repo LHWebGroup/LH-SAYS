@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🎬 [你的品牌名] 影视矩阵 · 官方发布页
+# 🎬 [SA影视] 影视矩阵 · 官方发布页
 
 <img src="https://img.shields.io/badge/状态-实时在线-brightgreen?style=for-the-badge&logo=statuspage" />
 <img src="https://img.shields.io/badge/版本-v2.0.26-blue?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/维护-24/7-orange?style=for-the-badge" />
 
-> **建议按下 `Ctrl + D` 收藏本页，防止失联。永久地址：github.com/your-name**
+> **建议按下 `Ctrl + D` 收藏本页，防止失联。永久地址：github.com/lingxiaoge899-ux
 
 </div>
 
@@ -17,10 +17,10 @@
 
 | 节点入口 | 线路说明 | 延迟测试 | 操作 |
 | :--- | :--- | :--- | :--- |
-| **🏠 官方主站** | 4K 原画 | `⚡ < 50ms` | [立即进入](https://xxx.com) |
-| **🚀 备用线路 1** | 极速秒播 | `🚀 < 100ms` | [立即进入](https://xxx.net) |
-| **🛰️ 备用线路 2** | 海外直连 | `✅ 稳定` | [立即进入](https://xxx.org) |
-| **🔗 永久发布页** | 防封跳转 | `🛡️ 安全` | [立即进入](https://xxx.info) |
+| **🏠 官方主站** | 4K 原画 | `⚡ < 50ms` | [立即进入](https://lsjys66.com) |
+| **🚀 备用线路 1** | 极速秒播 | `🚀 < 100ms` | [立即进入](https://lsjys88.com) |
+| **🛰️ 备用线路 2** | 海外直连 | `✅ 稳定` | [立即进入](https://lsjys55.com) |
+| **🔗 永久发布页** | 防封跳转 | `🛡️ 安全` | [立即进入](https://lsjys11.com) |
 
 ---
 
