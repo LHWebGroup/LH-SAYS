@@ -24,31 +24,6 @@
 
 ---
 
-## 📱 全平台覆盖 (Downloads)
-
-<table border="0">
-  <tr>
-    <td width="33.3%" align="center">
-      <br />
-      <img src="https://img.shields.io/badge/Android-安卓端-green?style=for-the-badge&logo=android" />
-      <br />支持手机/投影/盒子<br />
-      <a href="#"><b>[点击下载]</b></a>
-    </td>
-    <td width="33.3%" align="center">
-      <br />
-      <img src="https://img.shields.io/badge/iOS-苹果端-lightgrey?style=for-the-badge&logo=apple" />
-      <br />支持网页书签/TF<br />
-      <a href="#"><b>[安装说明]</b></a>
-    </td>
-    <td width="33.3%" align="center">
-      <br />
-      <img src="https://img.shields.io/badge/TV-电视端-blue?style=for-the-badge&logo=googleplay" />
-      <br />大屏观影更震撼<br />
-      <a href="#"><b>[下载 APK]</b></a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 📢 官方动态 & 公告
