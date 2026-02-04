@@ -55,10 +55,10 @@
 ---
 
 ## 💬 联络中心
-<div align="left">
-  <a href="[https://t.me/wuyong_6789]"><img src="https://img.shields.io/badge/Telegram-加入群聊-blue?style=flat-square&logo=telegram"></a>
-  <a href="wy4456789@gmail.com"><img src="https://img.shields.io/badge/Email-联系我们-red?style=flat-square&logo=gmail"></a>
-</div>
+如果你遇到问题或想加入我们：
+
+联系客服: (wy4456789@gmail.com)
+邮件联系: [luolidao168@gmail.com]
 
 ---
 <p align="center">
