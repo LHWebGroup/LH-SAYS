@@ -56,11 +56,11 @@
 
 ## 💬 联络中心
 <div align="left">
-  <a href="(https://t.me/wuyong_6789)"><img src="https://img.shields.io/badge/Telegram-加入群聊-blue?style=flat-square&logo=telegram"></a>
+  <a href="[https://t.me/wuyong_6789]"><img src="https://img.shields.io/badge/Telegram-加入群聊-blue?style=flat-square&logo=telegram"></a>
   <a href="wy4456789@gmail.com"><img src="https://img.shields.io/badge/Email-联系我们-red?style=flat-square&logo=gmail"></a>
 </div>
 
 ---
 <p align="center">
-  <b>© 2026 [你的品牌名] · 追求极致观影体验</b>
+  <b>© 2026 [LH-SAYS] · 追求极致观影体验</b>
 </p>
